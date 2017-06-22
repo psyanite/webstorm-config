@@ -4,7 +4,7 @@
     <property name="created">2017-06-17T22:04:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-06-22T22:52:02</property>
+    <property name="modified">2017-06-23T00:03:15</property>
     <property name="originalScheme">Material Theme - Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -906,6 +906,11 @@
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ff32b4" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -1926,7 +1931,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffeb95" />
+        <option name="FOREGROUND" value="ff009f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
