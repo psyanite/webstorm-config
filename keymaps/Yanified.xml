@@ -25,8 +25,5 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
-  <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="ctrl comma" />
-  </action>
   <action id="Switcher" />
 </keymap>
