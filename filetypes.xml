@@ -12,6 +12,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern=".sequelizerc" type="JavaScript" />
+      <mapping ext="jsbackup" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
     </extensionMap>
   </component>
