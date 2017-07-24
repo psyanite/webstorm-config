@@ -10,8 +10,14 @@
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="EditorSelectWord" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
@@ -26,4 +32,5 @@
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="Switcher" />
+  <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
