@@ -1,5 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="selectedTheme" value="PALENIGHT" />
+    <option name="accentColor" value="ff4081" />
+    <option name="compactSidebar" value="true" />
+    <option name="isCompactStatusBar" value="true" />
   </component>
 </application>
