@@ -11,6 +11,7 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="Search" type="JavaScript" />
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping ext="jsbackup" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
