@@ -4,7 +4,7 @@
     <property name="created">2017-07-01T22:37:35</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-09-23T16:41:03</property>
+    <property name="modified">2017-09-30T20:36:40</property>
     <property name="originalScheme">Material Theme - Palenight copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -822,13 +822,20 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="ddb357" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="c3e887" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value>
+        <option name="FOREGROUND" value="959dcb" />
+        <option name="BACKGROUND" value="292d3e" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
@@ -841,11 +848,7 @@
         <option name="FOREGROUND" value="89ddf7" />
       </value>
     </option>
-    <option name="HTML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="f07178" />
-      </value>
-    </option>
+    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f07178" />
@@ -909,14 +912,35 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
+    <option name="JS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="c39253" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="c39253" />
+      </value>
+    </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="ffa3db" />
+        <option name="FOREGROUND" value="d68ebc" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="68c6ff" />
+        <option name="FOREGROUND" value="469dc1" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="4a6cc3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="30b791" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -1994,13 +2018,18 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="469dc1" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="c3e887" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="30b791" />
       </value>
     </option>
     <option name="XML_PROLOGUE">
@@ -2024,7 +2053,7 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="f07178" />
+        <option name="FOREGROUND" value="4a6cc3" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
